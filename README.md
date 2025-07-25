@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sabarirajan R</h1>
 <h3 align="center">A passionate Programmer,a Student studying in Madras Institiute Of Technology</h3>
 
-- 🔭 I’m currently Learning **Java,Frontend Development,Data Structures**
+- 🔭 I’m currently Learning **Java ,Data Structures**
 
-- 👯 I’m have a basic knowledge in ` **C ,C++**
+- 👯 I’m have a basic knowledge in  **C ,C++**
 
 - 🤝 I’m looking for help with **Basic Competative Coding**
 
